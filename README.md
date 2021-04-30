@@ -1,9 +1,11 @@
-Hi,
+### Hi there 👋, my name is Mohammad Mahbubul Alam
+#### Web Developer
+
 I am a Software Quality Assurance Engineer with about 4 years of experience in different platform and technological environments. At present I am seeking a challenging and rewarding position as a Web Developer, with a strong will to prosper in any assigned duties. I am passionate about new challenges. I like to learn new things, adapt myself in any situations and be up-to-date.
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
+Skills: REACT / JS / HTML / CSS
 
+- 🔭 I’m currently working on this page. 
 
 LinkedIn - https://www.linkedin.com/in/mohammad-mahbubul-alam-2a59291a9/
 <!--
