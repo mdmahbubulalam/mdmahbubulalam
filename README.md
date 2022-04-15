@@ -3,7 +3,7 @@
 
 I am a Software Quality Assurance Engineer with about 4 years of experience in different platforms and technological environments. At present, I am seeking a challenging and rewarding position as a Software Quality Assurance Engineer, with a strong will to prosper in any assigned duties. I am passionate about new challenges. I like to learn new things, adapt myself to any situation and be up-to-date.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / JS / HTML / CSS 
 
 - 🔭 I’m currently working on this page. 
 
