@@ -1,10 +1,7 @@
 ### Hi there 👋, my name is Mohammad Mahbubul Alam
-#### Web Developer
 Seeking a challenging and rewarding position as a Software Quality Assurance Engineer or MERN Stack Developer, with a strong will to prosper in any assigned duties. I am passionate about new challenges. I like to learn new things, adapt myself to any situation and be up-to-date.
 
 Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / JS / HTML / CSS 
-
-- 🔭 I’m currently working on this page. 
 
 Connect with me:
 
